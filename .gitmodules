@@ -1,0 +1,3 @@
+[submodule "nbc-back"]
+    path = nbc-back
+    url = https://github.com/MrBrrown/nbc-back
