@@ -1,3 +1,6 @@
 [submodule "nbc-back"]
-    path = nbc-back
-    url = https://github.com/MrBrrown/nbc-back
+	path = nbc-back
+	url = https://github.com/MrBrrown/nbc-back
+[submodule "nbc-front"]
+	path = nbc-front
+	url = https://github.com/mikhailmogilnikov/neobit-cloud-frontend.git
